@@ -1,4 +1,11 @@
 # IST3134-19046739
+This is part of a submission for a subject (IST3134 - Big Data Analytics in the Cloud). The assignment required us to design a task that involves processing big data and compare different methods of achieving it. 
+Methods compared in this assignment included:
+- Conventional approach (Python)
+- MapReduce on local machine
+- MapReduce on Hadoop cluster
+- Apache Hive on Hadoop cluster
+
 Explanation of directory for relevant files
 
 hadoop_cluster/hive_output: Contain partial outputs from Apache Hive (Before concatenation)  
